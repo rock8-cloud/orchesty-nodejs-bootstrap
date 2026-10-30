@@ -8,7 +8,7 @@
     "url": "git+https://github.com/rock8-cloud/orchesty-nodejs-bootstrap.git"
   },
   "main": "index.js",
-  "packageManager": "pnpm@10.34.5",
+  "packageManager": "pnpm@12.16.0",
   "scripts": {
     "test": "jest --coverage --detectOpenHandles --passWithNoTests",
     "lint": "eslint src --fix",
