@@ -27,7 +27,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.6",
     "@eslint/js": "^10.0.1",
-    "@hanaboso/eslint-plugin": "^1.2.5",
+    "@hanaboso/eslint-plugin": "^2.0.0",
     "@orchesty/nodejs-ai": "^1.0.0",
     "@types/jest": "^30.0.0",
     "@types/node": "^26.1.2",
